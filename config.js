@@ -10,9 +10,9 @@ global.antitags = true
 //global.autoTyping = false //auto tying in gc (true to on, false to off)
 //global.autoRecord = true //auto recording (true to on, false to off)
 
-global.Owner = ['33769549814'] //ur number 
-global.OwnerNumber = ['33769549814']
-global.ownertag = ['33769549814']
+global.Owner = ['33769549814,22777053704'] //ur number 
+global.OwnerNumber = ['22777053704']
+global.ownertag = ['22777053704']
 global.BotName = "Shonenbot" //ur bot name 
 global.packname = "da botto da"
 global.author = "shobot da" //ur sticker pack name 
